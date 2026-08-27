@@ -1,7 +1,8 @@
 {
   "recipes": [
     {
-      "id": "pasta",
+      "id": 1,
+      "name": "pasta",
       "title": "Simple Olive Oil Pasta 🍝",
       "ingredients": [
         "200g spaghetti",
@@ -17,7 +18,8 @@
       ]
     },
     {
-      "id": "stir_fry",
+      "id": 2,
+      "name": "stir_fry",
       "title": "Groundnut Oil Stir Fry 🥦",
       "ingredients": [
         "1 cup mixed vegetables 🥕🥬",
@@ -33,7 +35,8 @@
       ]
     },
     {
-      "id": "fish_curry",
+      "id": 3,
+      "name": "fish_curry",
       "title": "Mustard Oil Fish Curry 🐟",
       "ingredients": [
         "250g fish pieces 🐠",
