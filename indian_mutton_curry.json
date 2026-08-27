@@ -1,0 +1,25 @@
+{
+  "id": 3,
+  "name": "indian_mutton_curry",
+  "title": "Indian Mutton Curry 🍖",
+  "ingredients": [
+    "500g mutton pieces 🍖",
+    "2 large onions, sliced 🧅",
+    "2 tomatoes, chopped 🍅",
+    "2 tbsp ginger-garlic paste 🌿",
+    "3 tbsp mustard oil 🫒",
+    "Spices: turmeric, chili powder, coriander, garam masala 🌶️",
+    "Salt to taste 🧂",
+    "Fresh coriander leaves 🌱"
+  ],
+  "preparation": [
+    "Heat mustard oil until it smokes lightly.",
+    "Add sliced onions and sauté until golden brown.",
+    "Mix in ginger-garlic paste and cook until fragrant.",
+    "Add tomatoes and spices, cook until oil separates.",
+    "Add mutton pieces, stir well, and cook on medium heat.",
+    "Pour water, cover, and simmer until mutton is tender.",
+    "Finish with garam masala and garnish with coriander leaves."
+  ],
+  "image": "https://github.com/reubenn8n186-code/imagesforrecipe/blob/main/muttoncurry.jpg?raw=true"
+}
