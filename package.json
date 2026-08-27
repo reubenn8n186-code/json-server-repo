@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "json-server --watch recipes.json --port 3000"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
