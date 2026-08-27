@@ -1,47 +1,52 @@
 {
-  "Pasta": {
-    "title": "Simple Olive Oil Pasta 🍝",
-    "ingredients": [
-      "200g spaghetti",
-      "2 tbsp olive oil 🫒",
-      "2 cloves garlic 🧄",
-      "Salt 🧂"
-    ],
-    "steps": [
-      "Boil spaghetti until al dente.",
-      "Heat olive oil in a pan.",
-      "Add garlic and sauté lightly.",
-      "Mix spaghetti with oil and garlic, season with salt."
-    ]
-  },
-  "Stir_fry": {
-    "title": "Groundnut Oil Stir Fry 🥦",
-    "ingredients": [
-      "1 cup mixed vegetables 🥕🥬",
-      "2 tbsp groundnut oil 🌰",
-      "Soy sauce 🍶",
-      "Salt and pepper 🧂"
-    ],
-    "steps": [
-      "Heat groundnut oil in a wok.",
-      "Add vegetables and stir fry on high heat.",
-      "Splash soy sauce, season with salt and pepper.",
-      "Serve hot."
-    ]
-  },
-  "Fish_curry": {
-    "title": "Mustard Oil Fish Curry 🐟",
-    "ingredients": [
-      "250g fish pieces 🐠",
-      "2 tbsp mustard oil 🌿",
-      "1 onion, chopped 🧅",
-      "Spices (turmeric, chili, coriander) 🌶️"
-    ],
-    "steps": [
-      "Heat mustard oil until it smokes lightly.",
-      "Add onion and sauté until golden.",
-      "Add spices and fish pieces, cook gently.",
-      "Simmer until fish is tender and curry thickens."
-    ]
-  }
+  "recipes": [
+    {
+      "id": "pasta",
+      "title": "Simple Olive Oil Pasta 🍝",
+      "ingredients": [
+        "200g spaghetti",
+        "2 tbsp olive oil 🫒",
+        "2 cloves garlic 🧄",
+        "Salt 🧂"
+      ],
+      "steps": [
+        "Boil spaghetti until al dente.",
+        "Heat olive oil in a pan.",
+        "Add garlic and sauté lightly.",
+        "Mix spaghetti with oil and garlic, season with salt."
+      ]
+    },
+    {
+      "id": "stir_fry",
+      "title": "Groundnut Oil Stir Fry 🥦",
+      "ingredients": [
+        "1 cup mixed vegetables 🥕🥬",
+        "2 tbsp groundnut oil 🌰",
+        "Soy sauce 🍶",
+        "Salt and pepper 🧂"
+      ],
+      "steps": [
+        "Heat groundnut oil in a wok.",
+        "Add vegetables and stir fry on high heat.",
+        "Splash soy sauce, season with salt and pepper.",
+        "Serve hot."
+      ]
+    },
+    {
+      "id": "fish_curry",
+      "title": "Mustard Oil Fish Curry 🐟",
+      "ingredients": [
+        "250g fish pieces 🐠",
+        "2 tbsp mustard oil 🌿",
+        "1 onion, chopped 🧅",
+        "Spices (turmeric, chili, coriander) 🌶️"
+      ],
+      "steps": [
+        "Heat mustard oil until it smokes lightly.",
+        "Add onion and sauté until golden.",
+        "Add spices and fish pieces, cook gently.",
+        "Simmer until fish is tender and curry thickens."
+      ]
+    }
+  ]
 }
