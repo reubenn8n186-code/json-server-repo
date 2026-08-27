@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "name": "fish_curry",
+  "title": "Mustard Oil Fish Curry 🐟",
+  "ingredients": [
+    "250g fish pieces 🐠",
+    "2 tbsp mustard oil 🌿",
+    "1 onion, chopped 🧅",
+    "Spices (turmeric, chili, coriander) 🌶️"
+  ],
+  "steps": [
+    "Heat mustard oil until it smokes lightly.",
+    "Add onion and sauté until golden.",
+    "Add spices and fish pieces, cook gently.",
+    "Simmer until fish is tender and curry thickens."
+  ]
+}
